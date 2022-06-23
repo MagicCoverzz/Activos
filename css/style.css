@@ -919,6 +919,11 @@ section {
   color: var(--yellow);
 }
 
+.assollage:hover{
+width: 200px;
+height: 200px;
+}
+
 @media (max-width: 1200px) {
   .header {
     padding: 1.5rem 2rem;
